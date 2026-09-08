@@ -1,0 +1,7 @@
+{
+  "name": "CodeBridge",
+  "description": "A Programming Language Comparison and Learning Platform for C, C++, Java, and Python",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
